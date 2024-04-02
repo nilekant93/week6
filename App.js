@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Position from './components/Position'
+import Position from './Position'
 
 export default function App() {
   return (
